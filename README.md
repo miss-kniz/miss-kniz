@@ -4,7 +4,7 @@
 
 ### Frontend Focused Full stack developer | SaaS Builder | Future AI Engineer  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%26+Redux+Expert;Building+SaaS+Applications;Node.js+%26+PostgreSQL+Learner;Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%26+Redux+Expert;Expert+UX+Designer;Building+SaaS+Applications;Node.js+%26+PostgreSQL+Learner;Problem+Solver)](https://git.io/typing-svg)
 
 </div>
 
