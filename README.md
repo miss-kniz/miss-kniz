@@ -2,7 +2,7 @@
 
 # Hi there, I'm Mehak Naqvi  
 
-### Junior Full Stack Developer | SaaS Builder | Future AI Engineer  
+### Frontend Focused Full stack developer | SaaS Builder | Future AI Engineer  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%26+Redux+Expert;Building+SaaS+Applications;Node.js+%26+PostgreSQL+Learner;Problem+Solver)](https://git.io/typing-svg)
 
@@ -12,9 +12,7 @@
 
 ## About Me  
 
-I'm a **Junior Full Stack Developer** with strong **React** and **Redux Toolkit** expertise, currently building the frontend of **LeadLyft**, a UK-based SaaS platform. Alongside frontend, I am expanding into backend work with **Node.js, Express, and PostgreSQL**.  
-
-My long-term goal is to grow into a **Full Stack Developer** at scale and eventually specialize as an **AI Engineer**.  
+I am senior Frontend developer, UX expert and node js/ python backend developer. 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kaniz-naqvi&color=blueviolet&style=flat-square)  
 [![GitHub followers](https://img.shields.io/github/followers/kaniz-naqvi?label=Follow&style=social)](https://github.com/kaniz-naqvi)
@@ -27,7 +25,7 @@ My long-term goal is to grow into a **Full Stack Developer** at scale and eventu
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-<!-- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) -->
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -52,9 +50,8 @@ My long-term goal is to grow into a **Full Stack Developer** at scale and eventu
 
 | **Current Work** | **Learning** | **Goals** |
 |:---:|:---:|:---:|
-| Junior Full Stack Developer @ **LeadLyft** | Scaling backend with Node.js & PostgreSQL | Full Stack Developer |
-| Building **EchoMe Portfolio Generator** | API design & database modeling | AI Engineer Specialization |
-| React & Redux Toolkit | Material UI (MUI) | Mid-level Developer Role |
+| Full Stack Developer @ **LeadLyft** | Scaling backend with Node.js & PostgreSQL | Full Stack Developer |
+| React & Redux Toolkit | Material UI (MUI) | Senior Frontend Developer Role |
 
 ---
 
