@@ -14,8 +14,8 @@
 
 I am senior Frontend developer, UX expert and node js/ python backend developer. 
 
-![Profile Views](https://komarev.com/ghpvc/?username=kaniz-naqvi&color=blueviolet&style=flat-square)  
-[![GitHub followers](https://img.shields.io/github/followers/kaniz-naqvi?label=Follow&style=social)](https://github.com/kaniz-naqvi)
+![Profile Views](https://komarev.com/ghpvc/?username=miss-kniz&color=blueviolet&style=flat-square)  
+[![GitHub followers](https://img.shields.io/github/followers/miss-kniz?label=Follow&style=social)](https://github.com/miss-kniz)
 
 ---
 
@@ -71,7 +71,7 @@ I am senior Frontend developer, UX expert and node js/ python backend developer.
 
 **Tech Stack:** React, Express, PostgreSQL, Tailwind  
 
-[![Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square&logo=github)](https://github.com/kaniz-naqvi/EchoMe)  
+[![Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square&logo=github)](https://github.com/miss-kniz/EchoMe)  
 <!-- Add Live Demo link once deployed -->
 
 
@@ -103,7 +103,7 @@ I am senior Frontend developer, UX expert and node js/ python backend developer.
 
 **Tech Stack:** React, Bootstrap, Context API  
 
-[![Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square&logo=github)](https://github.com/kaniz-naqvi/Contact-Manager)  
+[![Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square&logo=github)](https://github.com/miss-kniz/Contact-Manager)  
 
 </td>
 <td width="50%">
@@ -116,7 +116,7 @@ I am senior Frontend developer, UX expert and node js/ python backend developer.
 
 **Tech Stack:** React, API Integration  
 
-[![Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square&logo=github)](https://github.com/kaniz-naqvi/Movie-App)  
+[![Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square&logo=github)](https://github.com/miss-kniz/Movie-App)  
 
 </td>
 </tr>
@@ -134,15 +134,15 @@ I am senior Frontend developer, UX expert and node js/ python backend developer.
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaniz-naqvi&theme=react" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=miss-kniz&theme=react" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaniz-naqvi&layout=compact&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miss-kniz&layout=compact&hide_border=true" />
     </td>
   </tr>
 </table>
 
-![Profile Trophies](https://github-profile-trophy.vercel.app/?username=kaniz-naqvi&row=1&theme=flat)
+![Profile Trophies](https://github-profile-trophy.vercel.app/?username=miss-kniz&row=1&theme=flat)
 
 </div>
 
@@ -152,7 +152,7 @@ I am senior Frontend developer, UX expert and node js/ python backend developer.
 
 ## Let's Connect  
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaniz-naqvi)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miss-kniz)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehak-fatima-naqvi/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehak313naqvi@gmail.com)
 
