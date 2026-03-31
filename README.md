@@ -8,3 +8,4 @@ Open for UK based remote Roles
   - **Frontend**: React/Next, tailwind, RTK
   - **Backend**: Node, Express, Postgres
  
+Portfolio: https://mehak-naqvi.vercel.app/
