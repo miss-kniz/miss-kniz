@@ -1,6 +1,6 @@
 Writting Code daily with own hands, not a vibe coder, web Architecture expert
 
-Open for UK based remote Roles
+Open for remote Roles
 - Woking as a full stack developer at ThinkBuildSol
 - Learning and shiping something new everyday!
 
