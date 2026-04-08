@@ -1,22 +1,10 @@
-Writing code daily with my own hands, not a vibe coder.  
+Full-stack developer | Writing code daily with my own hands, not a vibe coder.  
 Web architecture expert. PERN (Postgres, Express, React, Next)
 
 Open for Remote Roles
 
 - Working as a Full-Stack Developer at ThinkBuildSol  
 - Learning and shipping something new every day
-
-## Stack
-
-**Frontend**
-- React / Next.js
-- TailwindCSS
-- Redux Toolkit
-
-**Backend**
-- Node.js
-- Express.js
-- PostgreSQL
 
 Portfolio  
 https://mehak-naqvi.vercel.app/
