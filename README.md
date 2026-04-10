@@ -1,16 +1,16 @@
-Full-stack developer | Writing code daily with my own hands, not a vibe coder.  
-Web architecture expert. PERN (Postgres, Express, React, Next)
+# Mehak Fatima Naqvi | Full-Stack Developer (miss-kniz)
 
-Open for Remote Roles
+**Full-stack developer** | Writing code daily with my own hands, not a vibe coder.  
+**Web Architecture Expert** | Specializing in the **PERN Stack** (PostgreSQL, Express, React, Next.js)
 
-- Working as a Full-Stack Developer at ThinkBuildSol  
-- Learning and shipping something new every day
+---
 
-Portfolio  
-https://mehak-naqvi.vercel.app/
+### Current Status
+- **Working:** Full-Stack Developer at **ThinkBuildSol**
+- **Learning:** Shipping new features and scaling web architectures daily
+- **Availability:** Open for Remote Roles
 
-LinkedIn  
-https://www.linkedin.com/in/miss-kniz
-
-Book a Call  
-[Schedule a Meeting](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ1AkFvrtiv_LPdNQ9r8sIYe0qDXg5IO-WnA9sBEc3qMu542rJ4PWUXYXWJcaj6TC3yX1mOkkxSW)
+### 🔗 Connect with Me
+-  **Portfolio:** [mehak-naqvi.vercel.app](https://mehak-naqvi.vercel.app/)
+-  **LinkedIn:** [miss-kniz](https://www.linkedin.com/in/miss-kniz)
+-  **Let's Talk:** [Schedule a Meeting](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ1AkFvrtiv_LPdNQ9r8sIYe0qDXg5IO-WnA9sBEc3qMu542rJ4PWUXYXWJcaj6TC3yX1mOkkxSW)
