@@ -7,7 +7,7 @@
 
 ### Current Status
 - **Working:** Full-Stack Developer at **ThinkBuildSol**
-- **Learning:** Shipping new features and scaling web architectures daily
+- **Learning:** Backend developemt with Python
 - **Availability:** Open for Remote Roles
 
 ### 🔗 Connect with Me
