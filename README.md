@@ -16,4 +16,4 @@
 -  **Let's Talk:** [Schedule a Meeting](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ1AkFvrtiv_LPdNQ9r8sIYe0qDXg5IO-WnA9sBEc3qMu542rJ4PWUXYXWJcaj6TC3yX1mOkkxSW)
 
 ### Github Statistics
-![GitHub Streak](https://streak-stats.demolab.com/?user=miss-kniz&theme=midnight-purple)
+![GitHub Streak](https://streak-stats.demolab.com?user=miss-kniz&theme=midnight-purple)
