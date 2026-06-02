@@ -36,4 +36,4 @@ A girl from Pakistan. No connections. Just code.
 
 ### GitHub Statistics
 
-![GitHub Streak](https://streak-stats.demolab.com?user=miss-kniz&theme=default&ring=5e0654&fire=5e0654&currStreakLabel=5e0654)
+![GitHub Streak](https://streak-stats.demolab.com?user=miss-kniz&theme=midnight-purple&v=1)
