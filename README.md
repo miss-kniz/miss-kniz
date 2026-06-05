@@ -3,6 +3,8 @@
 Full-stack developer writing code daily with my own hands, not a vibe coder.
 Specializing in the **PERN Stack** — PostgreSQL, Express, React, Next.js
 
+Teaching Full-Stack at [instagram.com/_skillsgrid](https://www.instagram.com/_skillsgrid/) · [YouTube](https://www.youtube.com/@SkillsGridAcademy)
+
 ---
 
 ### Current Status
