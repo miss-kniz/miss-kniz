@@ -9,7 +9,7 @@ Teaching Full-Stack at [Skills grid](https://www.instagram.com/_skillsgrid/) · 
 
 ### Current Status
 
-- **Working** — Full-Stack Developer at ThinkBuildSol
+- **Working** — Full-Stack Developer at [ThinkBuildSol](https://www.linkedin.com/company/thinkbuilt/posts/?feedView=all)
 - **Learning** — Backend development with Python
 - **Availability** — Open for Remote Roles
 
