@@ -26,7 +26,7 @@
 
 ---
 
-[Portfolio](https://mehak-naqvi.vercel.app/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/miss-kniz) &nbsp;·&nbsp; ·&nbsp; [Schedule a call](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ1AkFvrtiv_LPdNQ9r8sIYe0qDXg5IO-WnA9sBEc3qMu542rJ4PWUXYXWJcaj6TC3yX1mOkkxSW)
+[Portfolio](https://mehak-naqvi.vercel.app/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/miss-kniz) &nbsp; ·&nbsp; [Schedule a call](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ1AkFvrtiv_LPdNQ9r8sIYe0qDXg5IO-WnA9sBEc3qMu542rJ4PWUXYXWJcaj6TC3yX1mOkkxSW)
 
 ---
 
