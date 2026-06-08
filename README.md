@@ -1,15 +1,22 @@
+<div align="center">
+
 # Mehak Fatima Naqvi
 
-> Full-stack developer writing code with my own hands — not a vibe coder.
+*Full-stack developer writing code with my own hands — not a vibe coder.*
 
-`PostgreSQL` `Express` `React` `Next.js`
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+
+</div>
 
 ---
 
-🟢 &nbsp;**Working** at [ThinkBuildSol](https://www.linkedin.com/company/thinkbuilt/posts/?feedView=all)
-&nbsp;&nbsp;🔵 &nbsp;**Learning** Python backend
-&nbsp;&nbsp;🟡 &nbsp;**Open** for remote roles
-&nbsp;&nbsp;🟣 &nbsp;**Teaching** full-stack development at [YouTube](https://www.youtube.com/@SkillsGridAcademy) &nbsp;
+**Working** — Full-Stack Developer at [ThinkBuildSol](https://www.linkedin.com/company/thinkbuilt/posts/?feedView=all)
+&nbsp;&nbsp;&nbsp;**Learning** — Backend development with Python
+&nbsp;&nbsp;&nbsp;**Teaching** — Full-stack at [SkillsGrid](https://www.youtube.com/@SkillsGridAcademy)
+&nbsp;&nbsp;&nbsp;**Available** — Open for remote roles
 
 ---
 
@@ -26,8 +33,14 @@
 
 ---
 
-[Portfolio](https://mehak-naqvi.vercel.app/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/miss-kniz) &nbsp; ·&nbsp; [Schedule a call](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ1AkFvrtiv_LPdNQ9r8sIYe0qDXg5IO-WnA9sBEc3qMu542rJ4PWUXYXWJcaj6TC3yX1mOkkxSW)
+<div align="center">
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://mehak-naqvi.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miss-kniz)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@miss-kniz)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@SkillsGridAcademy)
+[![Schedule](https://img.shields.io/badge/Schedule_a_call-4285F4?style=flat-square&logo=googlecalendar&logoColor=white)](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ1AkFvrtiv_LPdNQ9r8sIYe0qDXg5IO-WnA9sBEc3qMu542rJ4PWUXYXWJcaj6TC3yX1mOkkxSW)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=miss-kniz&theme=midnight-purple&v=1)
+
+</div>
