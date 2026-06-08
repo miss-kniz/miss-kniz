@@ -9,7 +9,7 @@
 🟢 &nbsp;**Working** at [ThinkBuildSol](https://www.linkedin.com/company/thinkbuilt/posts/?feedView=all)
 &nbsp;&nbsp;🔵 &nbsp;**Learning** Python backend
 &nbsp;&nbsp;🟡 &nbsp;**Open** for remote roles
-&nbsp;&nbsp;🟡 &nbsp;**Teaching** full-stack development at [YouTube](https://www.youtube.com/@SkillsGridAcademy) &nbsp;
+&nbsp;&nbsp;🟣 &nbsp;**Teaching** full-stack development at [YouTube](https://www.youtube.com/@SkillsGridAcademy) &nbsp;
 
 ---
 
