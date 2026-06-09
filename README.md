@@ -13,7 +13,7 @@
 
 ---
 
-**Working** — Full-Stack Developer at [ThinkBuildSol](https://www.linkedin.com/company/thinkbuilt/posts/?feedView=all)
+&nbsp;&nbsp;&nbsp;**Working** — Full-Stack Developer at [ThinkBuildSol](https://www.linkedin.com/company/thinkbuilt/posts/?feedView=all)
 <br>
 &nbsp;&nbsp;&nbsp;**Learning** — Backend development with Python
 <br>
