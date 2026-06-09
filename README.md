@@ -14,8 +14,11 @@
 ---
 
 **Working** — Full-Stack Developer at [ThinkBuildSol](https://www.linkedin.com/company/thinkbuilt/posts/?feedView=all)
+<br>
 &nbsp;&nbsp;&nbsp;**Learning** — Backend development with Python
+<br>
 &nbsp;&nbsp;&nbsp;**Teaching** — Full-stack at [SkillsGrid](https://www.youtube.com/@SkillsGridAcademy)
+<br>
 &nbsp;&nbsp;&nbsp;**Available** — Open for remote roles
 
 ---
