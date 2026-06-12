@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mehak Fatima Naqvi
+# Mehak Fatima Naqvi also known as Miss Kniz (@miss-kniz)
 
 *Full-stack developer writing code with my own hands — not a vibe coder.*
 
