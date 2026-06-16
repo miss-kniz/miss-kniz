@@ -17,8 +17,6 @@
 <br>
 &nbsp;&nbsp;&nbsp;**Learning** — Backend development with Python
 <br>
-&nbsp;&nbsp;&nbsp;**Teaching** — Full-stack at [SkillsGrid](https://www.youtube.com/@SkillsGridAcademy)
-<br>
 &nbsp;&nbsp;&nbsp;**Available** — Open for remote roles
 
 ---
