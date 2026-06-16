@@ -36,7 +36,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-8127BC?style=flat-square&logo=vercel&logoColor=white)](https://mehak-naqvi.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-5A336D?style=flat-square&logo=vercel&logoColor=white)](https://mehak-naqvi.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miss-kniz)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@miss-kniz)
 [![Schedule](https://img.shields.io/badge/Schedule_a_call-4285F4?style=flat-square&logo=googlecalendar&logoColor=white)](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ1AkFvrtiv_LPdNQ9r8sIYe0qDXg5IO-WnA9sBEc3qMu542rJ4PWUXYXWJcaj6TC3yX1mOkkxSW)
