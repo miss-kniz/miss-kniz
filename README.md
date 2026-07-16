@@ -2,7 +2,7 @@
 
 # Miss Kniz (@miss-kniz)
 
-*Full-stack developer writing code with my own hands — not a vibe coder.*
+*Full-stack developer.*
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
