@@ -41,5 +41,5 @@
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@miss-kniz)
 [![Schedule](https://img.shields.io/badge/Schedule_a_call-4285F4?style=flat-square&logo=googlecalendar&logoColor=white)](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ1AkFvrtiv_LPdNQ9r8sIYe0qDXg5IO-WnA9sBEc3qMu542rJ4PWUXYXWJcaj6TC3yX1mOkkxSW)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=miss-kniz&theme=midnight-purple&v=1)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=miss-kniz&theme=midnight-purple)
 </div>
